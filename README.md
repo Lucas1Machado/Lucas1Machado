@@ -1,13 +1,10 @@
 -👀 #Hello World my name's Lucas Machado and i'm a creative developer, with skill's focused on Front-End
-
-<img align="left" height="145px" src="https://github-readme-stats.vercel.app/api?username=Lucas1Machado&count_private=true&show_icons=true&theme=chartreuse-dark" />
- <img align="right" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1Machado&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="160" />
-</br>
-
-
-
-<h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
+<table>  
+<tr>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas1Machado&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1Machado&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</tr>
+</table>
 
 
 <table>
