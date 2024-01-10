@@ -7,9 +7,9 @@
 <h1 align="center"></h1>
 <!-- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Lucas1Machado&theme=github&count_private=true" /> -->
 <h1 align="center"></h1>
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=Lucas1Machado&count_private=true&show_icons=true&theme=chartreuse-dark" />
- <img align="right" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1Machado&layout=compact&theme=chartreuse-dark&langs_count=8" />
-<img height="150" />
+<img align="right" height="145px" src="https://github-readme-stats.vercel.app/api?username=Lucas1Machado&count_private=true&show_icons=true&theme=chartreuse-dark" />
+ <img align="left" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas1Machado&layout=compact&theme=chartreuse-dark&langs_count=8" />
+<img height="160" />
 </br>
 
 
